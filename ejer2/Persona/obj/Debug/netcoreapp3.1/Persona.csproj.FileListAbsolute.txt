@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer2\Persona\bin\Debug\netcoreapp3.1\Persona.exe
+C:\xamppp\htdocs\c#\ejer2\Persona\bin\Debug\netcoreapp3.1\Persona.deps.json
+C:\xamppp\htdocs\c#\ejer2\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer2\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer2\Persona\bin\Debug\netcoreapp3.1\Persona.dll
+C:\xamppp\htdocs\c#\ejer2\Persona\bin\Debug\netcoreapp3.1\Persona.pdb
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.dll
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.pdb
+C:\xamppp\htdocs\c#\ejer2\Persona\obj\Debug\netcoreapp3.1\Persona.genruntimeconfig.cache

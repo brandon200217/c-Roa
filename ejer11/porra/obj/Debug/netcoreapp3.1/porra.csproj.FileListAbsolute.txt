@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer11\porra\bin\Debug\netcoreapp3.1\porra.exe
+C:\xamppp\htdocs\c#\ejer11\porra\bin\Debug\netcoreapp3.1\porra.deps.json
+C:\xamppp\htdocs\c#\ejer11\porra\bin\Debug\netcoreapp3.1\porra.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer11\porra\bin\Debug\netcoreapp3.1\porra.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer11\porra\bin\Debug\netcoreapp3.1\porra.dll
+C:\xamppp\htdocs\c#\ejer11\porra\bin\Debug\netcoreapp3.1\porra.pdb
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.dll
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.pdb
+C:\xamppp\htdocs\c#\ejer11\porra\obj\Debug\netcoreapp3.1\porra.genruntimeconfig.cache

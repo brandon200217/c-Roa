@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\Pooc#\ejer5\cd\bin\Debug\netcoreapp3.1\cd.exe
+C:\xamppp\htdocs\Pooc#\ejer5\cd\bin\Debug\netcoreapp3.1\cd.deps.json
+C:\xamppp\htdocs\Pooc#\ejer5\cd\bin\Debug\netcoreapp3.1\cd.runtimeconfig.json
+C:\xamppp\htdocs\Pooc#\ejer5\cd\bin\Debug\netcoreapp3.1\cd.runtimeconfig.dev.json
+C:\xamppp\htdocs\Pooc#\ejer5\cd\bin\Debug\netcoreapp3.1\cd.dll
+C:\xamppp\htdocs\Pooc#\ejer5\cd\bin\Debug\netcoreapp3.1\cd.pdb
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.csprojAssemblyReference.cache
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.AssemblyInfo.cs
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.dll
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.pdb
+C:\xamppp\htdocs\Pooc#\ejer5\cd\obj\Debug\netcoreapp3.1\cd.genruntimeconfig.cache

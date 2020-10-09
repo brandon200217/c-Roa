@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\Pooc#\ejer6\libro\bin\Debug\netcoreapp3.1\libro.exe
+C:\xamppp\htdocs\Pooc#\ejer6\libro\bin\Debug\netcoreapp3.1\libro.deps.json
+C:\xamppp\htdocs\Pooc#\ejer6\libro\bin\Debug\netcoreapp3.1\libro.runtimeconfig.json
+C:\xamppp\htdocs\Pooc#\ejer6\libro\bin\Debug\netcoreapp3.1\libro.runtimeconfig.dev.json
+C:\xamppp\htdocs\Pooc#\ejer6\libro\bin\Debug\netcoreapp3.1\libro.dll
+C:\xamppp\htdocs\Pooc#\ejer6\libro\bin\Debug\netcoreapp3.1\libro.pdb
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.csprojAssemblyReference.cache
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.AssemblyInfo.cs
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.dll
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.pdb
+C:\xamppp\htdocs\Pooc#\ejer6\libro\obj\Debug\netcoreapp3.1\libro.genruntimeconfig.cache

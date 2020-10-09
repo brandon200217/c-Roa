@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\10\cartas\bin\Debug\netcoreapp3.1\cartas.exe
+C:\xamppp\htdocs\c#\10\cartas\bin\Debug\netcoreapp3.1\cartas.deps.json
+C:\xamppp\htdocs\c#\10\cartas\bin\Debug\netcoreapp3.1\cartas.runtimeconfig.json
+C:\xamppp\htdocs\c#\10\cartas\bin\Debug\netcoreapp3.1\cartas.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\10\cartas\bin\Debug\netcoreapp3.1\cartas.dll
+C:\xamppp\htdocs\c#\10\cartas\bin\Debug\netcoreapp3.1\cartas.pdb
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.dll
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.pdb
+C:\xamppp\htdocs\c#\10\cartas\obj\Debug\netcoreapp3.1\cartas.genruntimeconfig.cache

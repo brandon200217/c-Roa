@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer13\serieProductos\bin\Debug\netcoreapp3.1\serieProductos.exe
+C:\xamppp\htdocs\c#\ejer13\serieProductos\bin\Debug\netcoreapp3.1\serieProductos.deps.json
+C:\xamppp\htdocs\c#\ejer13\serieProductos\bin\Debug\netcoreapp3.1\serieProductos.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer13\serieProductos\bin\Debug\netcoreapp3.1\serieProductos.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer13\serieProductos\bin\Debug\netcoreapp3.1\serieProductos.dll
+C:\xamppp\htdocs\c#\ejer13\serieProductos\bin\Debug\netcoreapp3.1\serieProductos.pdb
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.dll
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.pdb
+C:\xamppp\htdocs\c#\ejer13\serieProductos\obj\Debug\netcoreapp3.1\serieProductos.genruntimeconfig.cache

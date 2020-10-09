@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer16\baraja\bin\Debug\netcoreapp3.1\baraja.exe
+C:\xamppp\htdocs\c#\ejer16\baraja\bin\Debug\netcoreapp3.1\baraja.deps.json
+C:\xamppp\htdocs\c#\ejer16\baraja\bin\Debug\netcoreapp3.1\baraja.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer16\baraja\bin\Debug\netcoreapp3.1\baraja.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer16\baraja\bin\Debug\netcoreapp3.1\baraja.dll
+C:\xamppp\htdocs\c#\ejer16\baraja\bin\Debug\netcoreapp3.1\baraja.pdb
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.dll
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.pdb
+C:\xamppp\htdocs\c#\ejer16\baraja\obj\Debug\netcoreapp3.1\baraja.genruntimeconfig.cache

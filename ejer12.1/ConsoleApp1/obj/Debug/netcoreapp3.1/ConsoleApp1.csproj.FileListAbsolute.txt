@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\xamppp\htdocs\c#\12.1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

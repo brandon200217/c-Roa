@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer9\cine\bin\Debug\netcoreapp3.1\cine.exe
+C:\xamppp\htdocs\c#\ejer9\cine\bin\Debug\netcoreapp3.1\cine.deps.json
+C:\xamppp\htdocs\c#\ejer9\cine\bin\Debug\netcoreapp3.1\cine.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer9\cine\bin\Debug\netcoreapp3.1\cine.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer9\cine\bin\Debug\netcoreapp3.1\cine.dll
+C:\xamppp\htdocs\c#\ejer9\cine\bin\Debug\netcoreapp3.1\cine.pdb
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.dll
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.pdb
+C:\xamppp\htdocs\c#\ejer9\cine\obj\Debug\netcoreapp3.1\cine.genruntimeconfig.cache

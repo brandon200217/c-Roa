@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\bin\Debug\netcoreapp3.1\Raices.exe
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\bin\Debug\netcoreapp3.1\Raices.deps.json
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\bin\Debug\netcoreapp3.1\Raices.runtimeconfig.json
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\bin\Debug\netcoreapp3.1\Raices.runtimeconfig.dev.json
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\bin\Debug\netcoreapp3.1\Raices.dll
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\bin\Debug\netcoreapp3.1\Raices.pdb
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.csprojAssemblyReference.cache
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.AssemblyInfo.cs
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.dll
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.pdb
+C:\xamppp\htdocs\Pooc#\ejer7\Raices\obj\Debug\netcoreapp3.1\Raices.genruntimeconfig.cache

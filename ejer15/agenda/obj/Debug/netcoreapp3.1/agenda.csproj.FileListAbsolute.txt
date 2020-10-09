@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer15\agenda\bin\Debug\netcoreapp3.1\agenda.exe
+C:\xamppp\htdocs\c#\ejer15\agenda\bin\Debug\netcoreapp3.1\agenda.deps.json
+C:\xamppp\htdocs\c#\ejer15\agenda\bin\Debug\netcoreapp3.1\agenda.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer15\agenda\bin\Debug\netcoreapp3.1\agenda.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer15\agenda\bin\Debug\netcoreapp3.1\agenda.dll
+C:\xamppp\htdocs\c#\ejer15\agenda\bin\Debug\netcoreapp3.1\agenda.pdb
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.dll
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.pdb
+C:\xamppp\htdocs\c#\ejer15\agenda\obj\Debug\netcoreapp3.1\agenda.genruntimeconfig.cache

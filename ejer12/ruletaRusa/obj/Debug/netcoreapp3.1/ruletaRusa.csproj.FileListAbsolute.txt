@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\bin\Debug\netcoreapp3.1\ruletaRusa.exe
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\bin\Debug\netcoreapp3.1\ruletaRusa.deps.json
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\bin\Debug\netcoreapp3.1\ruletaRusa.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\bin\Debug\netcoreapp3.1\ruletaRusa.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\bin\Debug\netcoreapp3.1\ruletaRusa.dll
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\bin\Debug\netcoreapp3.1\ruletaRusa.pdb
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.dll
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.pdb
+C:\xamppp\htdocs\c#\ejer12\ruletaRusa\obj\Debug\netcoreapp3.1\ruletaRusa.genruntimeconfig.cache

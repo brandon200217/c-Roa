@@ -1,0 +1,13 @@
+C:\xamppp\htdocs\c#\ejer14\almacén\bin\Debug\netcoreapp3.1\almacén.exe
+C:\xamppp\htdocs\c#\ejer14\almacén\bin\Debug\netcoreapp3.1\almacén.deps.json
+C:\xamppp\htdocs\c#\ejer14\almacén\bin\Debug\netcoreapp3.1\almacén.runtimeconfig.json
+C:\xamppp\htdocs\c#\ejer14\almacén\bin\Debug\netcoreapp3.1\almacén.runtimeconfig.dev.json
+C:\xamppp\htdocs\c#\ejer14\almacén\bin\Debug\netcoreapp3.1\almacén.dll
+C:\xamppp\htdocs\c#\ejer14\almacén\bin\Debug\netcoreapp3.1\almacén.pdb
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.csprojAssemblyReference.cache
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.AssemblyInfo.cs
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.dll
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.pdb
+C:\xamppp\htdocs\c#\ejer14\almacén\obj\Debug\netcoreapp3.1\almacén.genruntimeconfig.cache
